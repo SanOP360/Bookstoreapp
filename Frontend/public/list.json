@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Mystery Bond",
+    "description": "Secrets and intrigue ",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.Jn3mUNyeI9rx1oVyiAE3lwHaFJ?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 2,
+    "name": "Adventure Awaits",
+    "description": "Thrilling journey in 'Journey to the Unknown'.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.Jn3mUNyeI9rx1oVyiAE3lwHaFJ?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 3,
+    "name": "Sci-Fi Saga",
+    "description": "Distant galaxies in 'Galactic Ventures'.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.Jn3mUNyeI9rx1oVyiAE3lwHaFJ?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 4,
+    "name": "Historical Epic",
+    "description": "The past in 'Tales of the Past'.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.Jn3mUNyeI9rx1oVyiAE3lwHaFJ?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 5,
+    "name": "Fantasy Realm",
+    "description": "Magical kingdoms in 'Magical Kingdoms'.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.Jn3mUNyeI9rx1oVyiAE3lwHaFJ?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 6,
+    "name": "Thriller Nights",
+    "description": "Chilling mysteries in 'Midnight Mysteries'.",
+    "price": 9.99,
+    "category": "Paid",
+    "image": "https://th.bing.com/th/id/OIP.Jn3mUNyeI9rx1oVyiAE3lwHaFJ?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 7,
+    "name": "Romantic Tales",
+    "description": "Love and loss in 'Love and Loss'.",
+    "price": 12.99,
+    "category": "Paid",
+    "image": "https://th.bing.com/th/id/OIP.Jn3mUNyeI9rx1oVyiAE3lwHaFJ?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 8,
+    "name": "Self-Help Guide",
+    "description": "Success with 'Path to Success'.",
+    "price": 15.0,
+    "category": "Paid",
+    "image": "https://th.bing.com/th/id/OIP.Jn3mUNyeI9rx1oVyiAE3lwHaFJ?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 9,
+    "name": "Cooking Delights",
+    "description": "Gourmet recipes in 'Gourmet Recipes'.",
+    "price": 19.99,
+    "category": "Paid",
+    "image": "https://th.bing.com/th/id/OIP.Jn3mUNyeI9rx1oVyiAE3lwHaFJ?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 10,
+    "name": "Children's Stories",
+    "description": "Bedtime adventures in 'Bedtime Adventures'.",
+    "price": 7.99,
+    "category": "Paid",
+    "image": "https://th.bing.com/th/id/OIP.Jn3mUNyeI9rx1oVyiAE3lwHaFJ?rs=1&pid=ImgDetMain"
+  }
+]
